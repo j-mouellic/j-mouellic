@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋 Welcome to my Github Page ! I'm Julien</h2>
+![Header](./github-header.png)
 
 
 <h2>😉 About Me</h2>
