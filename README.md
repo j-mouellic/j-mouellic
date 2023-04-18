@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/j-mouellic/j-mouellic/blob/master/devcard.svg" width="400" alt="Julien Mouellic's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/j-mouellic/j-mouellic/blob/main/devcard.svg" width="400" alt="Julien Mouellic's Dev Card"/></a>
 <!--
 **j-mouellic/j-mouellic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
