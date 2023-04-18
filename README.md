@@ -3,7 +3,7 @@
 
 <h2>😉 About Me</h2>
 🔭 I’m currently working on : an AirBnb CopyCat<br/>
-🌱 I’m currently learning : Javascript / RoR<br/>
+🌱 I’m currently improving my skills in : Javascript / RoR<br/>
 💬 Ask me about : Carpentry, Real Estate, Investement<br/>
 ⚡ Fun fact : I met François Hollande<br/><br/>
 <a href="https://linkedin.com/in/julien-mouellic" target="_blank">
