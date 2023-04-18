@@ -1,16 +1,24 @@
-### Hi there 👋
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/j-mouellic/j-mouellic/blob/main/devcard.svg" width="400" alt="Julien Mouellic's Dev Card"/></a>
-<!--
-**j-mouellic/j-mouellic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋 Welcome to my Github Page ! I'm Julien</h1>
 
-Here are some ideas to get you started:
+<div align="left">
+  <h3>😉 About Me<h3>
+  🔭 I’m currently working on : an AirBnb CopyCat
+  🌱 I’m currently learning : Javascript / RoR
+  💬 Ask me about : Carpentry, Real Estate, Investement
+  ⚡ Fun fact : I met François Hollande
+</div>
+<div align="right">
+  ### Ma stack
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/j-mouellic/j-mouellic/blob/main/devcard.svg" width="200" alt="Julien Mouellic's Dev Card"/></a>
