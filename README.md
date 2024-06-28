@@ -4,7 +4,7 @@
 <h2>😉 About Me</h2>
 ⚙️I'm work for Posware / Posiris -> https://posware.fr/<br/>
 🌱 I’m currently improving my skills in : Java Android<br/>
-💬 Ask me about : Carpentry, Real Estate, Investement<br/>
+💬 Ask me about : Carpentry, Real Estate, Investment<br/>
 ⚡ Fun fact : I met François Hollande<br/><br/>
 <a href="https://linkedin.com/in/julien-mouellic" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
